@@ -4,6 +4,12 @@
   this is my first <a href="https://www.frontendmentor.io/home" target="_blank">Frontend Mentor</a> challenge. I made a simple screen to share the site. Although i slightly deviated from the proposal, i did it more completely, using a real qrcode with a direct link to the Frontend Mentor website
 </p>
 
+<div style="display: flex; flex-direction: column">
+  <img src="./assets/img/desktop.jpg">
+  <br>
+  <img src="./assets/img/mobile.jpg">
+</div>
+
 <h2>Used tools</h2>
 
 <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white">
